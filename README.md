@@ -12,10 +12,10 @@ Este script descarga información de un Pokémon desde la PokeAPI y genera un ar
 - Cadena de evolución
 - Relaciones de daño (doble daño infligido y recibido)
 
-##📋 Requisitos
+## 📋 Requisitos
 
 - Python 3.8 o superior
 - Librería requests
 
-##✅ Opinión
+## ✅ Opinión
 Para realizar la prueba, investigué sobre el tema y encontré ejemplos en línea que me ayudaron a comprender el enfoque de la solución. Adapté la respuesta a mi propio entendimiento, y ahora puedo explicar el razonamiento detrás de la solución.
