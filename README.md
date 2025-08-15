@@ -2,7 +2,7 @@
 
 Python script that creates a .html file with the next information given on the next REST API: https://pokeapi.co/api/v2/pokemon  
 
-## Pokémon HTML Generator 🐾
+## Pokémon HTML Generator ⚙️
 
 Este script descarga información de un Pokémon desde la PokeAPI y genera un archivo HTML con:
 - Imagen oficial del Pokémon
